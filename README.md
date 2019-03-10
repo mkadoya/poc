@@ -22,3 +22,12 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+# POC
+このPOCは角谷と高井の共同作業だよ！
+
+## Enviroment
+CentOS 7  
+Ruby 2.5.1  
+etc
